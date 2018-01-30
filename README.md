@@ -1,1 +1,2 @@
 # co-auth-test
+test
